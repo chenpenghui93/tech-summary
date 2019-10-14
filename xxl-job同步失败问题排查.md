@@ -54,3 +54,8 @@
 
    - 查找问题的根本原因，不能留死角，否则以后需要付出更多时间和精力
    - 平时工作多翻一翻所用技术的官方文档，遇到问题才能快速、准确的解决
+   
+7. 其它
+
+   - SQL Error: 1062, SQLState: 23000
+   - Duplicate entry 'alexcliment' for key 'ux_user_login'
