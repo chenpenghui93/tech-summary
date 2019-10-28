@@ -38,6 +38,10 @@
 
 - UDDI （通用的描述、发现以及整合，Universal Description, Discovery and Integration）是一种目录服务，通过它，企业可注册并搜索 Web services
 
-### 常用Web Service
+### 开放Web Service
 
 - http://www.webxml.com.cn/zh_cn/support.aspx
+
+## 参考
+
+-  https://docs.oracle.com/javaee/6/tutorial/doc/bnayk.html 
