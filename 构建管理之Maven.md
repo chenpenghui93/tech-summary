@@ -95,6 +95,10 @@ ant重复造轮子
 - 常用插件
   -  https://maven.apache.org/plugins/index.html 
   -  https://www.mojohaus.org/plugins.html 
+  -  findbugs 静态代码检查
+  -  versions 统一升级版本号
+  -  source 打包源代码
+  -  assembly 打包zip、war
 
 
 
