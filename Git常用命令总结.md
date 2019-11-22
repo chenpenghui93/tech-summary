@@ -2,6 +2,14 @@
 
 ## 命令清单
 
+- 查看所有分支
+  - git branch -a
+- 查看本地分支
+  - git branch
+- 检出 远程dev分支 到 本地dev分支
+  - git checkout -b dev origin/dev
+- 切换回本地master分支
+  - git checkout master
 - 从服务器同步代码
   - git fetch
   - git pull
